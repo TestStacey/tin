@@ -73,7 +73,7 @@ checks to make sure that the files are JSON parsable, don't use this in conjunct
 
 update the packages version:
 
-    tin -v 0.0.1
+    tin -v 0.0.1/..
 
 
 ### description
