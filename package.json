@@ -27,7 +27,7 @@
   "dependencies": {
     "commander": "~2.0.0",
     "string": "~1.6.0",
-    "semver": "~2.2.1",
+    "semver": "~6.3.0",
     "uglify-js": "2.6.0"
   },
   "scripts": {
